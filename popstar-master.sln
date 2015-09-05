@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "popstar-master.CSharp", "popstar-master.CSharp.csproj", "{D220EEDE-ECD7-E179-5462-18167D853DCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "popstar-master.CSharp.Editor", "popstar-master.CSharp.Editor.csproj", "{AD23143F-7804-3740-8048-34ED22151DD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D220EEDE-ECD7-E179-5462-18167D853DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D220EEDE-ECD7-E179-5462-18167D853DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D220EEDE-ECD7-E179-5462-18167D853DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D220EEDE-ECD7-E179-5462-18167D853DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD23143F-7804-3740-8048-34ED22151DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD23143F-7804-3740-8048-34ED22151DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD23143F-7804-3740-8048-34ED22151DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD23143F-7804-3740-8048-34ED22151DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+Base path: E:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-4040
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=4 type=0 insize=7031 outsize=2874 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7031 outsize=2257 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5152 outsize=2874 kw=DIRECTIONAL pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5152 outsize=2257 kw=DIRECTIONAL pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1859 outsize=1729 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1859 outsize=2192 kw= pd= ok=1
